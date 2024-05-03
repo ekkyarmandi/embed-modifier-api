@@ -1,0 +1,8 @@
+# dir
+__pycache__/
+.venv/
+
+# any
+dev.py
+iframe.txt
+index.html
